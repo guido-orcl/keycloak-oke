@@ -15,9 +15,9 @@ Do not use in production!
 
 ## Deploy the Stack:
 
-    Click the button below to deploy the stack to OCI:
+Click the button below to deploy the stack to OCI:
 
-    [![Deploy to OCI](https://docs.oracle.com/en-us/iaas/Content/Resources/Images/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/guido-orcl/keycloak-oke/archive/refs/heads/main.zip)
+[![Deploy to OCI](https://docs.oracle.com/en-us/iaas/Content/Resources/Images/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/guido-orcl/keycloak-oke/archive/refs/heads/main.zip)
 
 
 ## How to run the demo
